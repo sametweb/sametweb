@@ -1,10 +1,13 @@
 ### Hello there 👋
 
-I am a software engineer specializing in full stack single page applications with React, Redux, Node, Express, GraphQL, Apollo, and Prisma.
+Software engineer specializing in full stack single page applications with;<br />
+`React`, `Redux`, `Node`, `Express`, `GraphQL`, `Apollo`, and `Prisma`
 
-I am the creator and maintainer of the `react-step-builder` package => https://www.npmjs.com/package/react-step-builder
 
-I also create content on my YouTube channel where I explain intro/mid-level React topics in Turkish https://www.youtube.com/c/reactdersleri
+
+Creator and maintainer of the [`react-step-builder`](https://www.npmjs.com/package/react-step-builder) package
+
+Content creator at [the YouTube channel](https://www.youtube.com/c/reactdersleri) teaching intro/mid-level React topics in Turkish
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=sametweb&show_icons=true&theme=dark)](https://github.com/sametweb)
 
