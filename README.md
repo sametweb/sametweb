@@ -3,6 +3,8 @@
 - Creator and maintainer of the `react-step-builder` package. https://www.npmjs.com/package/react-step-builder
 - See my YouTube channel where I explain intro/mid-level React topics in Turkish https://www.youtube.com/c/reactdersleri
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sametweb)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--
 **sametweb/sametweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
