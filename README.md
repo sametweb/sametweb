@@ -3,6 +3,8 @@
 - Software engineer specializing in full stack single page applications with;<br />
  
     ```React, Redux, Node, Express, GraphQL, Apollo, and Prisma```
+    
+- Created [omitURL](https://omiturl.com) full-stack app and [Chrome Extension](https://chrome.google.com/webstore/detail/omiturl/dpcjidcjfkjmfgobplfiaofmebakhobc)
 
 - Creator and maintainer of the [`react-step-builder`](https://www.npmjs.com/package/react-step-builder) package
 
