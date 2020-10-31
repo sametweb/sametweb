@@ -6,9 +6,7 @@
     
 - Created [omitURL](https://omiturl.com) full-stack app and [Chrome Extension](https://chrome.google.com/webstore/detail/omiturl/dpcjidcjfkjmfgobplfiaofmebakhobc)
 
-- Creator and maintainer of the [`react-step-builder`](https://www.npmjs.com/package/react-step-builder) package
-
- [![Coverage Status](https://coveralls.io/repos/github/sametweb/react-step-builder/badge.svg?branch=master)](https://coveralls.io/github/sametweb/react-step-builder?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/f0c62e4a8e4826eec6c9/maintainability)](https://codeclimate.com/github/sametweb/react-step-builder/maintainability) [![Total NPM Download](https://img.shields.io/npm/dt/react-step-builder.svg)](https://www.npmjs.com/package/react-react-step-builder)
+- Creator and maintainer of the [`react-step-builder`](https://www.npmjs.com/package/react-step-builder) [![Coverage Status](https://coveralls.io/repos/github/sametweb/react-step-builder/badge.svg?branch=master)](https://coveralls.io/github/sametweb/react-step-builder?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/f0c62e4a8e4826eec6c9/maintainability)](https://codeclimate.com/github/sametweb/react-step-builder/maintainability) [![Total NPM Download](https://img.shields.io/npm/dt/react-step-builder.svg)](https://www.npmjs.com/package/react-react-step-builder)
 
 - Content creator at [_React Dersleri_ YouTube channel](https://www.youtube.com/c/reactdersleri) teaching intro/mid-level React topics in Turkish
 
