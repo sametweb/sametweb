@@ -2,7 +2,7 @@
 
 - Software engineer specializing in full stack single page applications with;<br />
  
-    ```React, Redux, Node, Express, GraphQL, Apollo, and Prisma```
+    ```TypeScript, React, Redux, Node, Express, GraphQL, Apollo, and Prisma```
     
 - Creator and maintainer of the [`react-step-builder`](https://www.npmjs.com/package/react-step-builder) [![Coverage Status](https://coveralls.io/repos/github/sametweb/react-step-builder/badge.svg?branch=master)](https://coveralls.io/github/sametweb/react-step-builder?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/f0c62e4a8e4826eec6c9/maintainability)](https://codeclimate.com/github/sametweb/react-step-builder/maintainability) [![Total NPM Download](https://img.shields.io/npm/dt/react-step-builder.svg)](https://www.npmjs.com/package/react-step-builder)
 
