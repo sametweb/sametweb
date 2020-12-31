@@ -1,6 +1,6 @@
 ### Hello there 👋 My name is Samet. I am;
 
-- Software engineer specializing in full stack single page applications with;<br />
+- Software developer specializing in full stack single page applications with;<br />
  
     ```TypeScript, React, Redux, Node, Express, GraphQL, Apollo, and Prisma```
     
