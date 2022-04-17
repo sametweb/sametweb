@@ -1,4 +1,6 @@
-### Hello there 👋 My name is Samet. I am a software developer specializing in web and mobile applications with React, React Native, and TypeScript.
+### Hello there 👋 My name is Samet. 
+
+I am a software developer specializing in web and mobile applications with React, React Native, and TypeScript.
 
 Here are some highlights of my personal projects outside of work:
     
