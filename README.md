@@ -1,14 +1,12 @@
-### Hello there 👋 My name is Samet. I am;
+### Hello there 👋 My name is Samet. I am a software developer specializing in web and mobile applications with React, React Native, and TypeScript.
 
-- Software developer specializing in full stack single page applications with;<br />
- 
-    ```TypeScript, React, Next.js, Redux, Node, Express, GraphQL, Apollo, and Prisma```
-    
-- Translated [`Hooks API Reference`](https://tr.reactjs.org/docs/hooks-reference.html) page in the official React documentation to Turkish.
+Here are some highlights of my personal projects outside of work:
     
 - Creator and maintainer of the [`react-step-builder`](https://www.npmjs.com/package/react-step-builder) [![Total NPM Download](https://img.shields.io/npm/dt/react-step-builder.svg)](https://www.npmjs.com/package/react-step-builder)
 
 - Created [omitURL](https://omiturl.com) full-stack app and [Chrome Extension](https://chrome.google.com/webstore/detail/omiturl/dpcjidcjfkjmfgobplfiaofmebakhobc)
+
+- Translated [`Hooks API Reference`](https://tr.reactjs.org/docs/hooks-reference.html) page in the official React documentation to Turkish.
 
 - Content creator at [_React Dersleri_ YouTube channel](https://www.youtube.com/c/reactdersleri) teaching intro/mid-level React topics in Turkish
 
